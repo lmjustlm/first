@@ -33,6 +33,7 @@ br.clear{clear:both; margin-top:-15px;}
 a{outline:none; text-decoration:none; color:#A3443E; background-color:#E0E0E0;}
 
 .fl_left{float:left;}
+.tl_center{text-align: center;}
 .fl_right{float:right;}
 
 img{display:block; margin:0; padding:0; border:none;}
